@@ -1,16 +1,14 @@
-## Hi there 👋
+Hello!
 
-<!--
-**DrLakshya/DrLakshya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Baisalbek and I am a front end web developer with 4+ years experience. Stack: `React`, `Typescript`, `Next`.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/baisalbek-daniiarov/) | [CV](https://docs.google.com/document/d/1yU_nI7Q6hQrGM1QEt8qDWo-ikpFaM5b5z2ZvkWghePg/export?format=pdf) | [eMail](baisalbek.daniiarov@gmail.com) | [Portfolio](https://xbaysal11.github.io/)
+<div>
+ <div>
+<br><p><b>Visitors Count</b></p>  
+<p><img align="center" src="https://profile-counter.glitch.me/{xbaysal11}/count.svg"/></p> 
+<br>
+</div>
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=xbaysal11&langs_count=12)
+</div>
