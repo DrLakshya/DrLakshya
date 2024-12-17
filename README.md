@@ -6,7 +6,7 @@ My name is Baisalbek and I am a front end web developer with 4+ years experience
 <div>
  <div>
 <br><p><b>Visitors Count</b></p>  
-<p><img align="center" src="https://profile-counter.glitch.me/{xbaysal11}/count.svg"/></p> 
+<p><img align="center" src="https://profile-counter.glitch.me/{dushyant4665}/count.svg"/></p> 
 <br>
 </div>
  
